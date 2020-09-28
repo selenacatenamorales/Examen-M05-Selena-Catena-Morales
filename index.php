@@ -11,9 +11,12 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        function gmm_favcharacter(){
-            echo "Harleen Quinzel aka Harley Quinn";
-        }
-        ?>
+
+
+            function gmm_favcharacter(){
+                echo "Harleen Quinzel aka Harley Quinn";
+            }
+
+?>
     </body>
 </html>
